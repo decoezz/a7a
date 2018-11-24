@@ -11,4 +11,4 @@ channel.send(`laaaaaag`);
 })
  
  
-client.login('MzMwODM0OTA2NzgxNDUwMjQw.Dstdrg.gFpsSna59zUcaibc625uH56Os7Y');
+client.login(process.env.TOKEN);
